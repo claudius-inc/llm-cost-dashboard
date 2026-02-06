@@ -16,7 +16,7 @@
 
 ## Next
 - [x] Tailwind CSS setup (tailwind.config.ts + postcss.config.js already present and working)
-- [ ] Deploy to Vercel
+- [x] Deploy to Vercel (https://llm-cost-dashboard-ashy.vercel.app)
 - [ ] Add Clawdbot integration (auto-ingest usage from gateway logs)
 - [ ] Real-time data ingestion webhook
 - [ ] Cost optimization suggestions engine
